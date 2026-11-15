@@ -24,6 +24,7 @@ The repository root LICENSE states that non-Enterprise materials are MIT license
 
 ## Status
 - [x] Demo scope documented.
+- [x] Creto-branded static concept prototype added in `creto-demo/index.html` with fictional sample content and lightweight interactions.
 - [ ] Verify exact files/packages to use and their licences.
 - [ ] Scaffold Creto storefront and configure sample data.
 - [ ] Configure isolated backend/database and test checkout.
